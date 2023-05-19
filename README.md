@@ -10,7 +10,7 @@
 
 ## Screenshots
 
-![App Screenshot](https://github.com/shihab0005/Booking-System-API-Practice-with-Newman/blob/main/Capture1.PNG?raw=true)
+![App Screenshot](https://github.com/shihab0005/User_Info_API_Testing_Newman/blob/main/Capture1.PNG?raw=true)
 ![App Screenshot](https://github.com/shihab0005/Booking-System-API-Practice-with-Newman/blob/main/Capture2.PNG?raw=true)
 
 ## Prerequisite:
