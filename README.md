@@ -1,4 +1,4 @@
-# User_Info_API_Testing_Newman
+# Student_Info_API_Testing_Newman
 
 ## Technology used:
 - Postman
